@@ -1,0 +1,561 @@
+# depslib dependency file v1.0
+1554239948 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\notre_projeet\main.c
+	<allegro.h>
+	"statique.h"
+	<time.h>
+
+1554239892 c:\users\etien\onedrive\bureau\travail\informatique\programme c\notre_projeet\statique.h
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\main.c
+	"statique.h"
+	<allegro.h>
+
+1556213819 c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\statique.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	<math.h>
+
+1555855228 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\enlevermissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserennemi.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserliste.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\ajoutermissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creer.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerliste.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\dessinerliste.c
+	"statique.h"
+
+1555957387 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiser.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerennemi.c
+	"statique.h"
+
+1556153543 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\detection_tir_allie.c
+	"statique.h"
+
+1556213819 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerdirigeable.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserdiri.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichagediri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichageennemi.c
+	"statique.h"
+
+1556200057 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationennemi.c
+	"statique.h"
+
+1556197558 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationmissile.c
+	"statique.h"
+
+1556131543 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationdiri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserbonus.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerbonus.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichagebonus.c
+	"statique.h"
+
+1556105569 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationbonus.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichermissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerboss.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichageboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserboss.c
+	"statique.h"
+
+1556131465 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserboss2.c
+	"statique.h"
+
+1556205128 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichageboss2.c
+	"statique.h"
+
+1556197644 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\actualiserboss3.c
+	"statique.h"
+
+1556208298 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\affichageboss3.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\creerboss3.c
+	"statique.h"
+
+1556208426 source:c:\users\etien\onedrive\bureau\travail\informatique\programme c\projeeet2\verificationboss3.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserbonus.c
+	"statique.h"
+
+1556213819 c:\users\etien\onedrive\bureau\jeu\statique.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	<math.h>
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserboss3.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserdiri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserennemi.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\actualiserliste.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\affichagebonus.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\jeu\affichageboss.c
+	"statique.h"
+
+1556205128 source:c:\users\etien\onedrive\bureau\jeu\affichageboss2.c
+	"statique.h"
+
+1556208298 source:c:\users\etien\onedrive\bureau\jeu\affichageboss3.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\jeu\affichagediri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\affichageennemi.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\affichermissile.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\jeu\ajoutermissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\creer.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\creerbonus.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\creerboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\creerboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\jeu\creerboss3.c
+	"statique.h"
+
+1556213819 source:c:\users\etien\onedrive\bureau\jeu\creerdirigeable.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\jeu\creerennemi.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\jeu\creerliste.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\jeu\dessinerliste.c
+	"statique.h"
+
+1556153543 source:c:\users\etien\onedrive\bureau\jeu\detection_tir_allie.c
+	"statique.h"
+
+1555855228 source:c:\users\etien\onedrive\bureau\jeu\enlevermissile.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\jeu\main.c
+	"statique.h"
+	<allegro.h>
+
+1556105569 source:c:\users\etien\onedrive\bureau\jeu\verificationbonus.c
+	"statique.h"
+
+1556131465 source:c:\users\etien\onedrive\bureau\jeu\verificationboss.c
+	"statique.h"
+
+1556197644 source:c:\users\etien\onedrive\bureau\jeu\verificationboss2.c
+	"statique.h"
+
+1556208426 source:c:\users\etien\onedrive\bureau\jeu\verificationboss3.c
+	"statique.h"
+
+1556131543 source:c:\users\etien\onedrive\bureau\jeu\verificationdiri.c
+	"statique.h"
+
+1556200057 source:c:\users\etien\onedrive\bureau\jeu\verificationennemi.c
+	"statique.h"
+
+1556197558 source:c:\users\etien\onedrive\bureau\jeu\verificationmissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserbonus.c
+	"statique.h"
+
+1556213819 c:\users\etien\onedrive\bureau\travail\informatique\jeu\statique.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	<math.h>
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserboss3.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserdiri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserennemi.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\actualiserliste.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichagebonus.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichageboss.c
+	"statique.h"
+
+1556205128 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichageboss2.c
+	"statique.h"
+
+1556208298 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichageboss3.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichagediri.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichageennemi.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\affichermissile.c
+	"statique.h"
+
+1556158984 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\ajoutermissile.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creer.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerbonus.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerboss.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerboss2.c
+	"statique.h"
+
+1556212174 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerboss3.c
+	"statique.h"
+
+1556213819 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerdirigeable.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerennemi.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\creerliste.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\dessinerliste.c
+	"statique.h"
+
+1556153543 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\detection_tir_allie.c
+	"statique.h"
+
+1555855228 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\enlevermissile.c
+	"statique.h"
+
+1556214745 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\main.c
+	"statique.h"
+	<allegro.h>
+
+1556105569 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationbonus.c
+	"statique.h"
+
+1556131465 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationboss.c
+	"statique.h"
+
+1556197644 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationboss2.c
+	"statique.h"
+
+1556208426 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationboss3.c
+	"statique.h"
+
+1556131543 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationdiri.c
+	"statique.h"
+
+1556200057 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationennemi.c
+	"statique.h"
+
+1556197558 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu\verificationmissile.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserbonus.c
+	"statique.h"
+
+1556210219 c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\statique.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	<math.h>
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserboss.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserboss2.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserboss3.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserdiri.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserennemi.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\actualiserliste.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichagebonus.c
+	"statique.h"
+
+1556155384 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichageboss.c
+	"statique.h"
+
+1556201528 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichageboss2.c
+	"statique.h"
+
+1556204698 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichageboss3.c
+	"statique.h"
+
+1556155384 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichagediri.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichageennemi.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\affichermissile.c
+	"statique.h"
+
+1556155384 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\ajoutermissile.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creer.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerbonus.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerboss.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerboss2.c
+	"statique.h"
+
+1556208574 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerboss3.c
+	"statique.h"
+
+1556210219 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerdirigeable.c
+	"statique.h"
+
+1556211145 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerennemi.c
+	"statique.h"
+
+1556211145 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\creerliste.c
+	"statique.h"
+
+1556211145 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\dessinerliste.c
+	"statique.h"
+
+1556149943 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\detection_tir_allie.c
+	"statique.h"
+
+1555851628 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\enlevermissile.c
+	"statique.h"
+
+1556211145 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\main.c
+	"statique.h"
+	<allegro.h>
+
+1556101969 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationbonus.c
+	"statique.h"
+
+1556127865 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationboss.c
+	"statique.h"
+
+1556194044 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationboss2.c
+	"statique.h"
+
+1556204826 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationboss3.c
+	"statique.h"
+
+1556127943 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationdiri.c
+	"statique.h"
+
+1556196457 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationennemi.c
+	"statique.h"
+
+1556193958 source:c:\users\etien\onedrive\bureau\travail\informatique\jeu dirigeable\verificationmissile.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserbonus.c
+	"statique.h"
+
+1556213819 d:\travail\informatique\jeu dirigeable\statique.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	<math.h>
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserboss.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserboss2.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserboss3.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserdiri.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserennemi.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\actualiserliste.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\affichagebonus.c
+	"statique.h"
+
+1556158984 source:d:\travail\informatique\jeu dirigeable\affichageboss.c
+	"statique.h"
+
+1556205128 source:d:\travail\informatique\jeu dirigeable\affichageboss2.c
+	"statique.h"
+
+1556208298 source:d:\travail\informatique\jeu dirigeable\affichageboss3.c
+	"statique.h"
+
+1556158984 source:d:\travail\informatique\jeu dirigeable\affichagediri.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\affichageennemi.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\affichermissile.c
+	"statique.h"
+
+1556158984 source:d:\travail\informatique\jeu dirigeable\ajoutermissile.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\creer.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\creerbonus.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\creerboss.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\creerboss2.c
+	"statique.h"
+
+1556212174 source:d:\travail\informatique\jeu dirigeable\creerboss3.c
+	"statique.h"
+
+1556213819 source:d:\travail\informatique\jeu dirigeable\creerdirigeable.c
+	"statique.h"
+
+1556214745 source:d:\travail\informatique\jeu dirigeable\creerennemi.c
+	"statique.h"
+
+1556214745 source:d:\travail\informatique\jeu dirigeable\creerliste.c
+	"statique.h"
+
+1556214745 source:d:\travail\informatique\jeu dirigeable\dessinerliste.c
+	"statique.h"
+
+1556153543 source:d:\travail\informatique\jeu dirigeable\detection_tir_allie.c
+	"statique.h"
+
+1555855228 source:d:\travail\informatique\jeu dirigeable\enlevermissile.c
+	"statique.h"
+
+1556214745 source:d:\travail\informatique\jeu dirigeable\main.c
+	"statique.h"
+	<allegro.h>
+
+1556105569 source:d:\travail\informatique\jeu dirigeable\verificationbonus.c
+	"statique.h"
+
+1556131465 source:d:\travail\informatique\jeu dirigeable\verificationboss.c
+	"statique.h"
+
+1556197644 source:d:\travail\informatique\jeu dirigeable\verificationboss2.c
+	"statique.h"
+
+1556208426 source:d:\travail\informatique\jeu dirigeable\verificationboss3.c
+	"statique.h"
+
+1556131543 source:d:\travail\informatique\jeu dirigeable\verificationdiri.c
+	"statique.h"
+
+1556200057 source:d:\travail\informatique\jeu dirigeable\verificationennemi.c
+	"statique.h"
+
+1556197558 source:d:\travail\informatique\jeu dirigeable\verificationmissile.c
+	"statique.h"
+

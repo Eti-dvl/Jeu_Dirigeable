@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NOTRE_PROJEET" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NOTRE_PROJEET" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/liballeg44.dll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NOTRE_PROJEET" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="actualiserBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserBoss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserBoss2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserDiri.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserEnnemi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserListe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="actualiserboss3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageBoss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageBoss2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageBoss3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageDiri.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichageEnnemi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="afficherMissile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ajouterMissile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerBoss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerBoss2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerBoss3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerDirigeable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerEnnemi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creerListe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dessinerListe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="detection_tir_allie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enleverMissile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="statique.h" />
+		<Unit filename="verificationBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationBoss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationBoss2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationBoss3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationDiri.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationEnnemi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificationMissile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
